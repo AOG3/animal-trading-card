@@ -3,7 +3,7 @@
 <head>
 	<meta charset="utf-8">
 	<title>Animal Trading Cards</title>
-<link type="text/css" rel="stylesheet" href="/stylesheets/main.css" />
+<link type="text/css" rel="stylesheet" href="animal-trading-card/css"> 
 <link rel="import" href="chrome-extension://melpgahbngpgnbhhccnopmlmpbmdaeoi/app/templates/feedback.html" id="udacity-test-widget">
 <script id="ud-grader-options">UdacityFEGradingEngine.turnOn();</script>
 </head>
