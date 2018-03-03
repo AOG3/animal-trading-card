@@ -3,9 +3,8 @@
 <head>
 	<meta charset="utf-8">
 	<title>Animal Trading Cards</title>
-<link type="text/css" rel="stylesheet" href="stylesheet/animal-trading-card/css"> 
+<link type="text/css" rel="stylesheet" href="stylesheet/animal-trading-card.css"> 
 <link rel="import" href="chrome-extension://melpgahbngpgnbhhccnopmlmpbmdaeoi/app/templates/feedback.html" id="udacity-test-widget">
-<script id="ud-grader-options">UdacityFEGradingEngine.turnOn();</script>
 </head>
 <body background="https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.nps.gov%2Fcaco%2Flearn%2Fnature%2Fimages%2Fhighmarsh_dieback_1.jpg&imgrefurl=https%3A%2F%2Fwww.nps.gov%2Fcaco%2Flearn%2Fnature%2Fhigh-marsh-dieback.htm&docid=5azZvVNQObZX9M&tbnid=rWyn173yflvIEM%3A&vet=10ahUKEwj3jKP5kujYAhVkUt8KHTBVD7UQMwjwASgZMBk..i&w=768&h=432&bih=662&biw=1366&q=marsh&ved=0ahUKEwj3jKP5kujYAhVkUt8KHTBVD7UQMwjwASgZMBk&iact=mrc&uact=8">
 	<div id="box">
