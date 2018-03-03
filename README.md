@@ -3,7 +3,7 @@
 <head>
 	<meta charset="utf-8">
 	<title>Animal Trading Cards</title>
-<link rel="stylesheet" type="text/css" href="C:\Users\aogra_000\AppData\Local\atom\app-1.23.3\My website\animal-card.css">
+<link type="text/css" rel="stylesheet" href="/stylesheets/main.css" />
 <link rel="import" href="chrome-extension://melpgahbngpgnbhhccnopmlmpbmdaeoi/app/templates/feedback.html" id="udacity-test-widget">
 <script id="ud-grader-options">UdacityFEGradingEngine.turnOn();</script>
 </head>
@@ -30,6 +30,6 @@
 		</div>
 	</div>
 
-<script src="chrome-extension://melpgahbngpgnbhhccnopmlmpbmdaeoi/app/js/libs/GE.js" id="udacity-front-end-feedback"></script><test-widget></test-widget>
+
   </body>
 </html>
